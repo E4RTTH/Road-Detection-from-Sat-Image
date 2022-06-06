@@ -1,3 +1,3 @@
 # Road Detection from Sat Image
 
-[Demo]:  Demo.ipynb
+**Road Detection Demo** [Demo.ipynb](./Demo.ipynb)
